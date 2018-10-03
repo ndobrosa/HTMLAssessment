@@ -7,11 +7,12 @@ th {
 
   font-weight: bold;
   color: blue;
-  text-align: center;
+
 }
 
 table{
   border: 1px solid blue;
+  text-align: center;
 }
 ul {
   list-style-type: square;
